@@ -1,5 +1,11 @@
 # Data-Strucures
-Different type of Data-Structures Codes in C language
+## Different types of Data-Structures Codes in C language
 
-In this repo i have explained implemetation of different data-structures using c language.
-I have also explained some basic operation on such datastructures.
+In this repo I have explained implementation of different data-structures using C language.
+I have also explained some basic operations on such data-structures :
+- Linked List
+- Stacks
+- Queues
+- Binary Trees
+
+ENJOY !! :tada: :sparkles: 
