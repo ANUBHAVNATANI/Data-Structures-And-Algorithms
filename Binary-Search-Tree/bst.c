@@ -111,8 +111,23 @@ struct node* delete(struct node* root,int element){
 		root->right=delete(root->right,temp->data);
 		}
 	return root;
-	
 	}
+//height finding program for bst
+int height(struct node* root){ 
+   	if (root==NULL){ 
+       		return 0;
+       		}
+   	else{
+       		int lheight = height(root->left);
+       		int rheight = height(root->right);
+        if(lheight > rheight){ 
+           	return(lheight+1);
+           	}
+       	else{ 
+       		return(rheight+1);
+       		}
+   }
+} 
 void main(){
 	int d,number;
 	struct node* head=NULL;
@@ -130,6 +145,8 @@ void main(){
 			head = insert(head,ele);		
 			}
 		}
+	int hy=height(head);
+	printf("Height of the tree is %d \n",hy);
 	//deleting a number
 	struct node* y;
 	int dle_value;
