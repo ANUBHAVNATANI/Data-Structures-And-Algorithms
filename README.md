@@ -7,5 +7,6 @@ I have also explained some basic operations on such data-structures :
 - Stacks
 - Queues
 - Binary Trees
+- Graphs
 
 ENJOY !! :tada: :sparkles: 
