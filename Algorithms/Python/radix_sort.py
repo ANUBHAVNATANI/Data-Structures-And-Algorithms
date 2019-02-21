@@ -12,3 +12,15 @@ def count_sort(arr,k):
         b[count[arr[j]]-1] = arr[j]
         count[arr[j]]=count[arr[j]]-1
     return b
+
+def radix_sort(arr):  
+    max1 = max(arr)  
+    exp = 1
+    while max1/exp > 0: 
+        count_sort(arr,exp) 
+        exp *= 10
+
+
+a = [123,456,122,576,998]
+radix_sort(a)
+print(a)
