@@ -6,7 +6,7 @@ and and solutions
 
 - Sliding Window(Concept)
 1. https://leetcode.com/problems/longest-substring-without-repeating-characters/ 
-> Sol-Python[https://github.com/ANUBHAVNATANI/Data-Structures-And-Algorithms/blob/master/Problems/SlidingWindow/LC3.py] Sol Java [https://github.com/ANUBHAVNATANI/Data-Structures-And-Algorithms/blob/master/Problems/SlidingWindow/LC3.java]
+> [Sol-Python]: https://github.com/ANUBHAVNATANI/Data-Structures-And-Algorithms/blob/master/Problems/SlidingWindow/LC3.py [Sol-Java]: https://github.com/ANUBHAVNATANI/Data-Structures-And-Algorithms/blob/master/Problems/SlidingWindow/LC3.java
 - ArraysAsHashMap(Concept)
 1. https://leetcode.com/problems/find-the-duplicate-number/ Sol[]
 
