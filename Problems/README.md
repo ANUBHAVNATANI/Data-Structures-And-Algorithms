@@ -16,4 +16,7 @@ and and solutions
 - Binary Trees
 
 - Two Pointers
-1. [3Sum](https://leetcode.com/problems/3sum/)  
+1. [3Sum](https://leetcode.com/problems/3sum/)
+
+- Backtracking
+1. [Generate Parentheses](https://leetcode.com/problems/generate-parentheses/)
