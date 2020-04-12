@@ -20,3 +20,4 @@ and and solutions
 
 - Backtracking
 1. [Generate Parentheses](https://leetcode.com/problems/generate-parentheses/)
+2. [Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/)
