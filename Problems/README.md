@@ -14,4 +14,6 @@ and and solutions
   
 
 - Binary Trees
- 
+
+- Two Pointers
+1. [3Sum](https://leetcode.com/problems/3sum/)  
