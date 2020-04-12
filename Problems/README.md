@@ -3,6 +3,7 @@ This is a compherensive list of topics with problems and solution related to the
 and and solutions
 
 - Arrays
+1.[Merge Intervals](https://leetcode.com/problems/merge-intervals/)
 
 - Sliding Window(Concept)
 1. https://leetcode.com/problems/longest-substring-without-repeating-characters/
