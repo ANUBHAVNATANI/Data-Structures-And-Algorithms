@@ -16,7 +16,7 @@ and and solutions
 
 - Binary Trees
 
-- Two Pointers
+- Two Pointers(Concept)
 1. [3Sum](https://leetcode.com/problems/3sum/)
 
 - Backtracking(Concept)
@@ -27,3 +27,7 @@ and and solutions
 5. [Subsets](https://leetcode.com/problems/subsets/)
 6. [Subsets II](https://leetcode.com/problems/subsets-ii/)
 7. [Combinations](https://leetcode.com/problems/combinations/)
+8. [Permutations](https://leetcode.com/problems/permutations/)
+
+- Hash Map(DataStructure)
+1. [Contiguous Array](https://leetcode.com/problems/contiguous-array/)
