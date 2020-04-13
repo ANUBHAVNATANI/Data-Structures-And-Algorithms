@@ -28,6 +28,7 @@ and and solutions
 6. [Subsets II](https://leetcode.com/problems/subsets-ii/)
 7. [Combinations](https://leetcode.com/problems/combinations/)
 8. [Permutations](https://leetcode.com/problems/permutations/)
+9. [Permutations II](https://leetcode.com/problems/permutations-ii/)
 
 - Hash Map(DataStructure)
 1. [Contiguous Array](https://leetcode.com/problems/contiguous-array/)
