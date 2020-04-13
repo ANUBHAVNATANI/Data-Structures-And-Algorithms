@@ -16,6 +16,9 @@ and and solutions
 
 - Binary Trees
 
+- Linked List(DataStructure)
+1. [Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/)
+
 - Two Pointers(Concept)
 1. [3Sum](https://leetcode.com/problems/3sum/)
 
