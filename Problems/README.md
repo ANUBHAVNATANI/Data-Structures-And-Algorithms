@@ -18,6 +18,8 @@ and and solutions
 
 - Linked List(DataStructure)
 1. [Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/)
+2. [Rotate List](https://leetcode.com/problems/rotate-list/)
+3. [Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/)
 
 - Two Pointers(Concept)
 1. [3Sum](https://leetcode.com/problems/3sum/)
