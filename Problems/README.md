@@ -35,3 +35,6 @@ and and solutions
 
 - Hash Map(DataStructure)
 1. [Contiguous Array](https://leetcode.com/problems/contiguous-array/)
+
+- Dynamic Programming(Concept)
+1. [Word Break](https://leetcode.com/problems/word-break/)
