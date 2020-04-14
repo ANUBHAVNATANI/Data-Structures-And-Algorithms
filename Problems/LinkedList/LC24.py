@@ -18,6 +18,7 @@ class Solution:
         fp=head.next
         flag = True
         keep = head
+        toRet = head
         while(sp and fp):
             sp.next = fp.next
             fp.next = sp
