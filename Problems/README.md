@@ -4,6 +4,7 @@ and and solutions
 
 - Arrays
 1. [Merge Intervals](https://leetcode.com/problems/merge-intervals/)
+2. [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/)
 
 - Sliding Window(Concept)
 1. [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/)
